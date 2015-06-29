@@ -1,0 +1,5 @@
+set_library_name "bsfl"
+set_version "2.00-beta-3"
+git_url "git@github.com:kennelbound/bsfl.git"
+
+library_entry "bsfl" "bsfl"
